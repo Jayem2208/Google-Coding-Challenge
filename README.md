@@ -1,1 +1,1 @@
-# This is my submission for the coding challenge
+# This is my submission for the google coding challenge
